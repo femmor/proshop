@@ -7,7 +7,6 @@ import HomeScreen from './screens/HomeScreen';
 import Cart from './screens/Cart'
 import Login from './screens/Login'
 import ProductScreen from "./screens/ProductScreen"
-import ErrorPage from "./screens/ErrorPage"
 
 const App = () => {
   return (
