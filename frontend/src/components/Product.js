@@ -11,7 +11,7 @@ const Product = ({ product }) => {
     <Card className="my-3 rounded">
         <Card.Img variant="top" src={image} />
       <Card.Body>
-        <Link to={`/product/${_id}`}>
+        <Link to={`/products/${_id}`}>
           <Card.Title as="div"><strong>{name}</strong></Card.Title>
         </Link>
         <Card.Text as="div">
