@@ -1,3 +1,3 @@
 # proshop
 
-An ecommerce application built with React, Context API, NodeJS, MongoDB, JWT
+An ecommerce application built with React, Redux, NodeJS, MongoDB, JWT
